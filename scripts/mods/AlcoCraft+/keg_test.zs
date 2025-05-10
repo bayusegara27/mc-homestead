@@ -1,0 +1,3 @@
+craftingTable.remove(<item:alcocraftplus:keg>);
+
+craftingTable.addShaped("homestead.keg", <item:alcocraftplus:keg>, [[<tag:items:minecraft:wooden_slabs>, <item:minecraft:iron_ingot>, <tag:items:minecraft:wooden_slabs>], [<item:minecraft:iron_ingot>, <tag:items:c:crops/hops>, <item:minecraft:iron_ingot>], [<tag:items:minecraft:wooden_slabs>, <item:minecraft:iron_ingot>, <tag:items:minecraft:wooden_slabs>]]);

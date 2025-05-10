@@ -1,0 +1,4 @@
+#General Mod Configuration
+[general_mod_configuration]
+	#Double Axe Base Damage
+	"Double Axe Base Damage" = 8.0
